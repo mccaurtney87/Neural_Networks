@@ -1,0 +1,1 @@
+This is a wine classification model.It uses neural networks for multi-classification.It has been trained on a wine quality dataset which is a csv file.
