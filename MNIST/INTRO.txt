@@ -1,0 +1,2 @@
+This is a Deep Leaning model created using Neural Networks.
+It is an image classifier trained on MNIST handwritten digits images.
